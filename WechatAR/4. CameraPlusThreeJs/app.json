@@ -1,8 +1,7 @@
 {
   "pages": [
-    "pages/scenario2/index",
-    "pages/scenario1/index"
-    
+    "pages/scenario1/index",
+    "pages/scenario2/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
