@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/scenario1/index",
+    "pages/scenario3/index",
     "pages/scenario2/index"
   ],
   "window": {
